@@ -1,0 +1,3 @@
+[submodule "site/themes/parsa-hugo"]
+	path = site/themes/parsa-hugo
+	url = https://github.com/themefisher/parsa-hugo.git
